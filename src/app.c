@@ -42,7 +42,7 @@ int main(int argc, char *argv[])
         }
 
     if (argc < 3) {
-        printf("\nUsage:<gl_modem> [device] <command>\n");
+        printf("\nUsage:<gl_modem> <device> <command>\n");
         return 1;
     }
     char recv[4096] = { 0 };

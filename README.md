@@ -1,7 +1,7 @@
 ### Usage
 
 ```
-<gl_modem> [device] <command>
+<gl_modem> <device> <command>
 ```
 
 ### Example
